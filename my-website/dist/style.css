@@ -1,0 +1,51 @@
+/* Cascading Stule Sheets */
+
+div {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+}
+
+main {
+  background-color: #d7e3fa;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  background-color: #ffffff;
+  width: 400px;
+  padding: 32px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #1B212C;
+  font-size: 32px;
+  ont-family: 'Big Shoulders Stencil Display', cursive;
+  margin-bottom: 0;
+}
+
+p{
+  color: #5e636b;
+  font-size: 20px;
+  ont-family: 'Big Shoulders Stencil Display', cursive;
+  margin-top: 8px;
+}
+
+img{
+  width: 140px;
+  height: 140px;
+  border-radius: 999px; 
+}
+
+.links {
+  text-align: center;
+}
+
+a{
+  margin: 8px;
+}
